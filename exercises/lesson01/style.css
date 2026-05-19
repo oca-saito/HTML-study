@@ -1,0 +1,21 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: #101010;
+  background-color: bisque;
+  padding: 10px;
+  border: 1px solid #101010;
+  border-radius: 20px;
+}
+
+p {
+  color: #101010;
+  font-size: 16px;
+}
+
+.title {
+  background-color: #101010;
+  color: aliceblue;
+}
