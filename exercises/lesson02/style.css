@@ -21,6 +21,23 @@ h1 {
 }
 /* ===== Step 4: クラスセレクタ ===== */
 /* .box にスタイルを書いてみよう */
+.box {
+  background-color: #3498db;
+  color: white;
+  padding: 40px;
+  margin-bottom: 8px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 16ox;
+}
+
+.highlight {
+  background-color: #fffde7;
+}
 
 /* ===== Step 5: 余白（margin, padding） ===== */
 /* padding と margin を調整しよう */
